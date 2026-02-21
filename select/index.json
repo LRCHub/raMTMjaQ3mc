@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "乱舞のメロディ (LIVE)",
+  "base_artist": "シド",
+  "createdAt": "2026-02-21T04:32:46.876457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乱舞のメロディ",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/01_乱舞のメロディ_SID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乱舞のメロディ (ALBUM Mix)",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/02_乱舞のメロディ_(ALBUM_Mix)_SID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "乱舞のメロディ (ALBUM Mix) (Album Mix)",
+      "artist": "Sid",
+      "has_synced": true,
+      "path": "select/03_乱舞のメロディ_(ALBUM_Mix)_(Album_Mix)_Sid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "乱舞のメロディ",
+      "artist": "シド",
+      "has_synced": true,
+      "path": "select/04_乱舞のメロディ_シド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "乱舞のメロディ",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/05_乱舞のメロディ_SID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "乱舞のメロディ (ALBUM Mix) - Ranbu No Melody (Album Mix)",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/06_乱舞のメロディ_(ALBUM_Mix)_-_Ranbu_No_Melody_(Album_Mix)_SID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "乱舞のメロディ - Ranbu No Melody",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/07_乱舞のメロディ_-_Ranbu_No_Melody_SID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "乱舞のメロディ (LIVE) - Ranbu No Melody (LIVE)",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/08_乱舞のメロディ_(LIVE)_-_Ranbu_No_Melody_(LIVE)_SID.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "乱舞のメロディ",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/09_乱舞のメロディ_SID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "乱舞のメロディ",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/10_乱舞のメロディ_SID.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "乱舞のメロディ (ALBUM MIX)",
+      "artist": "シド",
+      "has_synced": true,
+      "path": "select/11_乱舞のメロディ_(ALBUM_MIX)_シド.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "乱舞のメロディ(LIVE)",
+      "artist": "Sid",
+      "has_synced": false,
+      "path": "select/12_乱舞のメロディ(LIVE)_Sid.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ranbu No Melody 「乱舞のメロディ」",
+      "artist": "Sid",
+      "has_synced": true,
+      "path": "select/13_Ranbu_No_Melody_「乱舞のメロディ」_Sid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乱舞のメロディ",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_01_乱舞のメロディ_シド.txt"
+    }
+  ]
+}
